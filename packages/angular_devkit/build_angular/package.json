@@ -19,7 +19,7 @@
     "@babel/preset-env": "7.16.11",
     "@babel/runtime": "7.17.2",
     "@babel/template": "7.16.7",
-    "@discoveryjs/json-ext": "0.5.6",
+    "@discoveryjs/json-ext": "0.5.7",
     "@ngtools/webpack": "0.0.0-PLACEHOLDER",
     "ansi-colors": "4.1.1",
     "babel-loader": "8.2.3",
