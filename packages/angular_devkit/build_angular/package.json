@@ -1,6 +1,6 @@
 {
   "name": "@robomonk/build-angular",
-  "version": "0.1102.18",
+  "version": "11.02.18",
   "description": "Angular Webpack Build Facade (without node-sass)",
   "experimental": true,
   "main": "src/index.js",
